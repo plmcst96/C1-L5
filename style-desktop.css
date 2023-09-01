@@ -182,7 +182,7 @@ footer {
 
 .icons {
     margin: 1.7em 0;
-    color: rgba(255, 255, 255, 0.884)
+    color: rgba(255, 255, 255, 0.884);
 }
 
 .icon i, .icon a, .icon address {
@@ -194,7 +194,7 @@ footer {
 }
 
 hr {
-    margin: 0 32em;
+    width: 150px;
     color: white;
 }
 
@@ -209,6 +209,8 @@ footer p {
 .pix {
     color: rgba(255, 255, 255, 0.884)
 }
+
+
 
 
 
