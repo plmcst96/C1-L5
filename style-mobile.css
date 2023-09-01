@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    color: #393d41;
+    line-height: 1.65;
+}
+
+h1, h3, h4 {
+    font-family: 'Montserrat', sans-serif;
+    color: #25a2c3;
+    line-height: 1.5;
+    font-weight: 700;
+}
+
+/* HEADER */
+
+.logo {
+    background-color: black;
+    padding: 1.5em;
+    text-align: center;
+}
+
+.logo img {
+    width: 130px;
+}
+
+.start {
+    background-image: url(Esercizio/images/banner.jpg);
+    background-size:cover;
+    padding: 3em 2.5em;
+    background-position: center;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+    line-height: 1;
+}
+
+.start p {
+    text-align: center;
+    margin-top: 1.3em;
+}
+
+.button {
+    text-align: center;
+}
+
+button {
+    background-color: #f04c2f;
+    font-weight: bold;
+    color: white;
+    border: none;
+    padding: 1.2em 2.2em;
+    border-radius: 3px;
+    margin-top: 2.5em;
+}
+
+/* MAIN */
+
+.text, .text1 {
+    text-align: center;
+    padding: 1.3em;
+    box-sizing:content-box;
+}
+
+.text1 h3{
+    margin-top: 2.3em;
+}
+
+h3 {
+    font-size: 1.2em;
+    margin-bottom: 13.8px;
+    margin-top: -15px;
+}
+
+.text img {
+    border-radius: 200px;
+    width: 70%;
+    margin-top: 1.3em;
+}
+
+.content2 {
+    font-size: 0.8em;
+    background-color: #e22d0e;
+    color: white;
+    text-align: center;
+    padding: 3.5em;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h2 + p {
+    font-style: italic;
+    margin-top: 1.5em;
+}
+
+.par {
+    margin-top: 1.5em;
+}
+
+.p1 {
+    font-size: 1.2em;
+}
+
+.p2 {
+    font-size: 0.8em;
+}
+
+/* ASIDE */
+
+aside {
+    margin: 3em 1.3em;
+}
+
+.card {
+    border: 1px solid #dee1e3;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.card img {
+    width: 100%;
+}
+h4 {
+    margin-top: 1.5em;
+}
+
+h4 + p {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-top: -15px;
+    padding: 1.5em;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    background-color: #25a2c3;
+    color: white;
+    padding: 3em 2em;
+}
+
+.icons {
+    margin: 1.7em 0;
+    color: rgba(255, 255, 255, 0.884)
+}
+
+.icon i, .icon a, .icon address {
+    display: inline;
+}
+
+.icon a:link {
+    color: rgba(255, 255, 255, 0.884)
+}
+
+hr {
+    margin: 0 5.4em;
+    color: white;
+}
+
+footer p {
+    margin-top: 1.7em;
+}
+
+.pix a:link {
+    color: rgba(255, 255, 255, 0.884)
+}
+
+.pix {
+    color: rgba(255, 255, 255, 0.884)
+}
+
