@@ -60,25 +60,3 @@ button {
     border-radius: 3px;
     margin-top: 2.5em;
 }
-
-#content-img {
-    display: inline-block;
-}
-
-#content-img img {
-    border-radius: 100%;
-    width: 400px;
-    margin: 7em 4em 0 7em;
-}
-
-#content-text {
-    display: inline-block;
-    font-size: 20px;
-    
-}
-
-.text {
-    font-size: 20px;
-    line-height: 3;
-    
-}
